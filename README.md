@@ -11,10 +11,10 @@ _test environment_
 
 ## Implementation
 Both software was tested by running these scenarios
-(i)   Inserting 10.000 rows of data
-(ii)  Fetching 50 rows of data, repeated 10.000 times
-(iii) Fetch 1 row of data, repeated 10.000 times
-(iv)  Load testing with e-commerce app simulation
+- **Scenario i**: Inserting 10.000 rows of data
+- **Scenario ii**: Fetching 50 rows of data, repeated 10.000 times
+- **Scenario iii**: Fetch 1 row of data, repeated 10.000 times
+- **Scenario iv**: Load testing with e-commerce app simulation
 
 We used [Grafana K6](https://k6.io/) to help running the test
 
