@@ -4,4 +4,4 @@ This repository is dedicated to test and compare the performance and scalability
 
 Here's a video providing the result of the test
 
-https://media.githubusercontent.com/media/kevinmtanadi/funcbase-vs-pocketbase/master/result.mp4
+https://drive.google.com/file/d/1Q3iRZ1O8_MdGdKq2puIxEG9uty2YRSK1/view?usp=sharing
